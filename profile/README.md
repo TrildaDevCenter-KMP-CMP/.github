@@ -11,7 +11,9 @@ projects includes:
 
 # Projects'licenses
 All project should have an open source license
+
 However you should always check project licensing , just in case 
+
 Moreover GPL and LGPL licensing are less permissive than others
 
 if you use an open source project, it should be mentionned somewhere in your Application UI and at list in a Readme than if your own project is open source
