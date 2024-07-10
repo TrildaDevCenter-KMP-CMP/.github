@@ -1,6 +1,6 @@
 # .github
 
-# About TrildaDevCenter-kmm
+# About TrildaDevCenter-kmm-kmp
 
 hold a curated list of interesting projects using Kottlin Multiplatform Mobile(KMM)  or Kotlin Multi Platform (KMP)
 
