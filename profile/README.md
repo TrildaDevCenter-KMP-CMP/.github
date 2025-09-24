@@ -1,4 +1,4 @@
-# .github
+#  TrildaDevCenter-KMP-CMP organization
 
 
 # About TrildaDevCenter-kmp-cmp
