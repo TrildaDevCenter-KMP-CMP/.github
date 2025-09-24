@@ -98,7 +98,7 @@ projects includes:
 
 
 
-# Projects'licenses
+# Projects' licences
 All project should have an open source license
 
 However you should always check project licensing , just in case 
