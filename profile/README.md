@@ -13,24 +13,36 @@ projects includes:
 
 # Project's of Interest
 
+# jetbrains
+- compose-multiplatform, https://github.com/JetBrains/compose-multiplatform
+
 # Collections
 - Kotlin-Multiplatform-Libraries, https://github.com/TrildaDevCenter-KMP-CMP/Kotlin-Multiplatform-Libraries
 - kmp-awesome, https://github.com/TrildaDevCenter-KMP-CMP/kmp-awesome
 
   
 ## Applications
-
-- Gitnuro https://github.com/TrildaDevCenter-KMP-CMP/Gitnuro
+- ClimateTraceKMP, https://github.com/TrildaDevCenter-KMP-CMP/ClimateTraceKMP
+- BikeShare, https://github.com/TrildaDevCenter-KMP-CMP/BikeShare
+- FantasyPremierLeague, https://github.com/TrildaDevCenter-KMP-CMP/FantasyPremierLeague
+- Gitnuro, https://github.com/TrildaDevCenter-KMP-CMP/Gitnuro
 - KotlinLogo-ScreenSaver, https://github.com/TrildaDevCenter-KMP-CMP/KotlinLogo-ScreenSaver
 - kmm-production-sample, https://github.com/TrildaDevCenter-KMP-CMP/kmm-production-sample
-
+- KMMNewsAPP, https://github.com/TrildaDevCenter-KMP-CMP/KMMNewsAPP
 - MediaPlayer-KMP, https://github.com/TrildaDevCenter-KMP-CMP/MediaPlayer-KMP
+- MortyComposeKMM, https://github.com/TrildaDevCenter-KMP-CMP/MortyComposeKMM
+- MovieDB-App, https://github.com/TrildaDevCenter-KMP-CMP/MovieDB-App
+- MovieDB-Android, https://github.com/TrildaDevCenter-KMP-CMP/MovieDB-Android
 - MusicApp-KMP, https://github.com/TrildaDevCenter-KMP-CMP/MusicApp-KMP
 - NewsAppKMP, https://github.com/TrildaDevCenter-KMP-CMP/NewsAppKMP
 - NYTimes-KMP, https://github.com/TrildaDevCenter-KMP-CMP/NYTimes-KMP
 - Notflix, https://github.com/TrildaDevCenter-KMP-CMP/Notflix
+- PeopleInSpace, https://github.com/TrildaDevCenter-KMP-CMP/PeopleInSpace
 - Portfolio-Web, https://github.com/TrildaDevCenter-KMP-CMP/Portfolio-Web
+- StarWars, https://github.com/TrildaDevCenter-KMP-CMP/StarWars
 - WikWok, https://github.com/TrildaDevCenter-KMP-CMP/WikWok
+
+
 
 
 ## Games
@@ -46,7 +58,17 @@ projects includes:
 
   
 ## Templates
+- compose-multiplatform-desktop-template, https://github.com/TrildaDevCenter-KMP-CMP/compose-multiplatform-desktop-template
+- KaMPKit, https://github.com/TrildaDevCenter-KMP-CMP/KaMPKit
+- KMMT, https://github.com/TrildaDevCenter-KMP-CMP/KMMT
+- KMP-App-Template, https://github.com/TrildaDevCenter-KMP-CMP/KMP-App-Template
+- KMP-App-Template-Native, https://github.com/TrildaDevCenter-KMP-CMP/KMP-App-Template-Native
+- kmp-native-wizard, https://github.com/TrildaDevCenter-KMP-CMP/kmp-native-wizard
 - kmp-project-template, https://github.com/TrildaDevCenter-KMP-CMP/kmp-project-template
+- KmpViewModel-Unsplash-Sample, https://github.com/TrildaDevCenter-KMP-CMP/Compose-Multiplatform-KmpViewModel-Unsplash-Sample
+- moko-template, https://github.com/TrildaDevCenter-KMP-CMP/moko-template
+- multiplatform-library-template, https://github.com/TrildaDevCenter-KMP-CMP/multiplatform-library-template
+
 
 
 ## Tools, Build
