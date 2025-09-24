@@ -1,8 +1,5 @@
 # .github
 
-# collections
-- Kotlin-Multiplatform-Libraries, https://github.com/TrildaDevCenter-KMP-CMP/Kotlin-Multiplatform-Libraries
-- kmp-awesome, https://github.com/TrildaDevCenter-KMP-CMP/kmp-awesome
 
 # About TrildaDevCenter-kmp-cmp
 
@@ -16,6 +13,11 @@ projects includes:
 
 # Project's of Interest
 
+# Collections
+- Kotlin-Multiplatform-Libraries, https://github.com/TrildaDevCenter-KMP-CMP/Kotlin-Multiplatform-Libraries
+- kmp-awesome, https://github.com/TrildaDevCenter-KMP-CMP/kmp-awesome
+
+  
 ## Applications
 
 - Gitnuro https://github.com/TrildaDevCenter-KMP-CMP/Gitnuro
@@ -30,6 +32,7 @@ projects includes:
 - Portfolio-Web, https://github.com/TrildaDevCenter-KMP-CMP/Portfolio-Web
 - WikWok, https://github.com/TrildaDevCenter-KMP-CMP/WikWok
 
+
 ## Games
 - asteroids-compose-multiplatform, https://github.com/TrildaDevCenter-KMP-CMP/asteroids-compose-multiplatform
 - asteroids-compose-for-desktop, https://github.com/TrildaDevCenter-KMP-CMP/asteroids-compose-for-desktop
@@ -37,15 +40,18 @@ projects includes:
 - jetchess-compose, https://github.com/SebastianAigner/jetchess-compose/blob/master/build.gradle.kts
 - WordMasterKMPhttps://github.com/TrildaDevCenter-KMP-CMP/WordMasterKMP?tab=License-1-ov-file
 
+
 ## Games Framework
 - korge, game framework, https://github.com/TrildaDevCenter-KMP-CMP/korge?tab=readme-ov-file
+
   
 ## Templates
 - kmp-project-template, https://github.com/TrildaDevCenter-KMP-CMP/kmp-project-template
 
-## Tools, Build
 
+## Tools, Build
 - BuildKonfig, https://github.com/TrildaDevCenter-KMP-CMP/BuildKonfig
+
 
 ## Frameworks
 - Appyx, https://github.com/TrildaDevCenter-KMP-CMP/appyx?tab=readme-ov-file, ttps://bumble-tech.github.io/appyx/
@@ -55,7 +61,6 @@ projects includes:
 
 
 ## Libraries
-
 - arrow, https://github.com/TrildaDevCenter-KMP-CMP/arrow
 - Bonsai, https://github.com/TrildaDevCenter-KMP-CMP/bonsai
 - Compose-Rich-Editor, https://github.com/TrildaDevCenter-KMP-CMP/Compose-Rich-Editor
@@ -86,7 +91,6 @@ projects includes:
 
   
 ## Music Assistant Foundation
-
 - openhomefoundation, https://www.openhomefoundation.org/
 - server, https://github.com/music-assistant/server
 - kmp-client-app, https://github.com/music-assistant/kmp-client-app
