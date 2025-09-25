@@ -156,8 +156,6 @@ projects includes:
 - 
 
 ## Frameworks
-- Appyx, https://github.com/TrildaDevCenter-KMP-CMP/appyx?tab=readme-ov-file, ttps://bumble-tech.github.io/appyx/
-- FlowMVI, https://github.com/TrildaDevCenter-KMP-CMP/FlowMVI
 - Skia, https://github.com/TrildaDevCenter-KMP-CMP/skia?tab=readme-ov-file , https://skia.org/docs/ , https://skia.org/
 - skiko, https://github.com/Tr, https://github.com/TrildaDevCenter-KMP-CMP/skiko
 - Calf, https://github.com/TrildaDevCenter-KMP-CMP/Calf
@@ -168,6 +166,7 @@ projects includes:
 
 
 ## Navigation / states
+- Appyx, https://github.com/TrildaDevCenter-KMP-CMP/appyx?tab=readme-ov-file, ttps://bumble-tech.github.io/appyx/
 - Decompose, https://github.com/TrildaDevCenter-KMP-CMP/Decompose
 - Decompose-Router, https://github.com/TrildaDevCenter-KMP-CMP/Decompose-Router
 - kstatemachine, https://github.com/TrildaDevCenter-KMP-CMP/kstatemachine
