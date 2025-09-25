@@ -1,4 +1,4 @@
-#  TrildaDevCenter-KMP-CMP organization
+#  TrildaDevCenter-KMP-CMP, a Trilda, TrildaDevCenter & Paul Plaquette organization
 
 
 # About TrildaDevCenter-kmp-cmp
