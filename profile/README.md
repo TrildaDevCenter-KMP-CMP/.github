@@ -213,13 +213,14 @@ projects includes:
 - ktor, https://github.com/TrildaDevCenter-KMP-CMP/ktor
 - KtorBoost, https://github.com/TrildaDevCenter-KMP-CMP/KtorBoost
 - kstore, https://github.com/TrildaDevCenter-KMP-CMP/KStore
+- lyricist, https://github.com/TrildaDevCenter-KMP-CMP/lyricis
 - MaterialKolor, https://github.com/TrildaDevCenter-KMP-CMP/MaterialKolor
 - multiplatform-settings, https://github.com/TrildaDevCenter-KMP-CMP/multiplatform-settings
 - mutekt, https://github.com/TrildaDevCenter-KMP-CMP/mutekt
 - Napier, https://github.com/TrildaDevCenter-KMP-CMP/Napier?tab=readme-ov-file#darwinios-macos-watchos-tvosintelapple-silicon
-- sketch, https://github.com/TrildaDevCenter-KMP-CMP/sketch
-- lyricist, https://github.com/TrildaDevCenter-KMP-CMP/lyricis
 - redwood, https://github.com/TrildaDevCenter-KMP-CMP/redwood
+- Rinku, https://github.com/TrildaDevCenter-KMP-CMP/Rinku
+- sketch, https://github.com/TrildaDevCenter-KMP-CMP/sketch
 - sms-service, https://github.com/TrildaDevCenter-KMP-CMP/sms-service
 - UUID, https://github.com/TrildaDevCenter-KMP-CMP/uuid
 - zoomimage, https://github.com/TrildaDevCenter-KMP-CMP/zoomimage
