@@ -154,6 +154,7 @@ projects includes:
 - Mokkery, https://github.com/TrildaDevCenter-KMP-CMP/Mokkery
 - ultron, https://github.com/TrildaDevCenter-KMP-CMP/ultron
 - turbine, https://github.com/TrildaDevCenter-KMP-CMP/turbine
+- popcorn-guineapig, https://github.com/TrildaDevCenter-KMP-CMP/popcorn-guineapig
 
 ## Frameworks
 - Skia, https://github.com/TrildaDevCenter-KMP-CMP/skia?tab=readme-ov-file , https://skia.org/docs/ , https://skia.org/
