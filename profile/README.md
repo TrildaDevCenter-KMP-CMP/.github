@@ -244,4 +244,5 @@ if you use an open source project, it should be mentionned somewhere in your App
 
 # Author, Company 
 Paul Plaquette, Trilda, TrildaDevCenter
-https://www.linkedin.com/in/pplaquette/
+- [Paul Plaquette, linkedin profile](https://www.linkedin.com/in/pplaquette/) 
+- [TrildaDevCenter posts on linkedin ](https://www.linkedin.com/company/37833727/admin/page-posts/published/)
