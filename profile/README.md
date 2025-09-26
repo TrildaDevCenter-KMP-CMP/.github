@@ -47,6 +47,7 @@ projects includes:
 
 # Collections
 - Kotlin-Multiplatform-Libraries, https://github.com/TrildaDevCenter-KMP-CMP/Kotlin-Multiplatform-Libraries
+- KaMPKit, https://github.com/TrildaDevCenter-KMP-CMP/KaMPKit
 - kmp-awesome, https://github.com/TrildaDevCenter-KMP-CMP/kmp-awesome
 - kmpizza-repo, https://github.com/TrildaDevCenter-KMP-CMP/kmpizza-repo
 - Splitties, https://github.com/TrildaDevCenter-KMP-CMP/Splitties
@@ -133,7 +134,6 @@ projects includes:
 - Compose-Multiplatform-Wizard, https://github.com/TrildaDevCenter-KMP-CMP/Compose-Multiplatform-Wizard
 - compose-multiplatform, https://github.com/TrildaDevCenter-KMP-CMP/compose-multiplatform
 - CMP-MVI-Template, https://github.com/TrildaDevCenter-KMP-CMP/CMP-MVI-Template
-- KaMPKit, https://github.com/TrildaDevCenter-KMP-CMP/KaMPKit
 - KMMT, https://github.com/TrildaDevCenter-KMP-CMP/KMMT
 - KMP-App-Template, https://github.com/TrildaDevCenter-KMP-CMP/KMP-App-Template
 - KMP-App-Template-Native, https://github.com/TrildaDevCenter-KMP-CMP/KMP-App-Template-Native
