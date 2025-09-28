@@ -23,6 +23,7 @@ projects includes:
 
 # Google
 - kotlin-samples, https://github.com/TrildaDevCenter-KMP-CMP/kotlin-samples
+- kotlin-multiplatform-samples, https://github.com/TrildaDevCenter-KMP-CMP/kotlin-multiplatform-samples
   
 # Fonts
 - JetBrainsMono, https://github.com/JetBrains/JetBrainsMono
@@ -142,6 +143,7 @@ projects includes:
 - KmpViewModel-Unsplash-Sample, https://github.com/TrildaDevCenter-KMP-CMP/Compose-Multiplatform-KmpViewModel-Unsplash-Sample
 - moko-template, https://github.com/TrildaDevCenter-KMP-CMP/moko-template
 - multiplatform-library-template, https://github.com/TrildaDevCenter-KMP-CMP/multiplatform-library-template
+- https://github.com/TrildaDevCenter-KMP-CMP/kotlin-library-template
 
 
 ## Tools, Build
