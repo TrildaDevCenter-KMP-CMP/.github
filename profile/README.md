@@ -204,7 +204,7 @@ projects includes:
 - compose-imageloader, https://github.com/TrildaDevCenter-KMP-CMP/compose-imageloader
 - ImagePickerKMP, https://github.com/TrildaDevCenter-KMP-CMP/ImagePickerKMP
 - kandy, https://github.com/TrildaDevCenter-KMP-CMP/kandy
-- Kamel, https://github.com/TrildaDeKamelvCenter-KMP-CMP/
+- Kamel, https://github.com/TrildaDevCenter-KMP-CMP/Kamel
 - kermit, https://kermit.touchlab.co/, https://github.com/TrildaDevCenter-KMP-CMP/Kermit?tab=readme-ov-file,
 - kmp-filehttps://github.com/TrildaDevCenter-KMP-CMP/kmp-file
 - KMPNotifier, https://github.com/TrildaDevCenter-KMP-CMP/KMPNotifier
